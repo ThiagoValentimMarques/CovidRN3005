@@ -8,6 +8,6 @@ Diante do exposto e pelo conhecido processo de interiorização da doença no RN
 
 Para mais detalhes basta acessar o [post](https://www.thiagovalentim.me/post/a-covid-19-no-rn-analise-descritiva-dos-dados-da-semana-epidemiologica-22).
 
-![]()
+![](https://raw.githubusercontent.com/ThiagoValentimMarques/CovidRN3005/master/unnamed-chunk-10-1.png)
 
 
